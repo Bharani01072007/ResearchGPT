@@ -9,3 +9,4 @@ sentence-transformers
 python-dotenv
 pymupdf
 Pillow
+rank_bm25
